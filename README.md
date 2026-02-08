@@ -6,6 +6,8 @@ An intelligent web-based application that uses AI + NLP to analyze resumes, extr
 
 ![alt text](<Screenshot 2026-02-08 121224.png>)
 
+![alt text](<WhatsApp Image 2026-02-08 at 12.19.21 PM.jpg>)
+
 ---
 
 # 🚀 Features
