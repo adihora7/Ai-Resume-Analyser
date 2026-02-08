@@ -4,9 +4,9 @@ An intelligent web-based application that uses AI + NLP to analyze resumes, extr
 
 🔗 Live Demo: https://ai-resume-analyser-blond.vercel.app
 
-![alt text](<Screenshot 2026-02-08 121224.png>)
+![alt text](<Homepage Demo-1.png>)
 
-![alt text](<WhatsApp Image 2026-02-08 at 12.19.21 PM.jpg>)
+![alt text](<Review Demo-1.jpg>)
 
 ---
 
